@@ -141,7 +141,7 @@
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@maaaau2006?name=maaaau2006&theme=love-and-deepspace&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
+  <img src="https://count.getloli.com/@maaaau2006?name=maaaau2006&theme=love-and-deepspace&padding=7&offset=0&align=top&scale=0.7&pixelated=1&darkmode=auto" />
 </div>
 
 ###
